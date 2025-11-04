@@ -1,0 +1,11 @@
+Ecommerce-Recommendation-Clustering/
+│── data/                # Raw and processed datasets
+│── notebooks/           # Jupyter notebooks for experiments
+│── src/
+│   ├── preprocess.py    # RFM feature engineering
+│   ├── clustering.py    # KMeans & DBSCAN
+│   ├── modeling.py      # RandomForest & XGBoost
+│   ├── recommend.py     # Recommendation logic
+│── visualization/       # PCA, t-SNE, plots
+│── README.md            # Project explanation
+│── requirements.txt     # Dependencies

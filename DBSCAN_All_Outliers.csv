@@ -1,0 +1,14 @@
+Customer_ID,Recency,Frequency,Monetary,Category,eps
+CUST922,322,20,15291.0,VIP / High-Spending Customer,500
+CUST343,362,20,18538.0,VIP / High-Spending Customer,500
+CUST453,327,20,11133.0,Irregular Mid-Spender,500
+CUST195,420,20,12961.0,VIP / High-Spending Customer,500
+CUST776,329,20,15274.0,VIP / High-Spending Customer,500
+CUST471,439,20,11083.0,Irregular Mid-Spender,500
+CUST922,322,20,15291.0,VIP / High-Spending Customer,1000
+CUST343,362,20,18538.0,VIP / High-Spending Customer,1000
+CUST453,327,20,11133.0,Irregular Mid-Spender,1000
+CUST195,420,20,12961.0,VIP / High-Spending Customer,1000
+CUST776,329,20,15274.0,VIP / High-Spending Customer,1000
+CUST471,439,20,11083.0,Irregular Mid-Spender,1000
+CUST343,362,20,18538.0,VIP / High-Spending Customer,3000
