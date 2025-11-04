@@ -138,7 +138,7 @@ This notebook contains:
 ##  Author
 **Shanmukha Srinivas Regidi**  
 B.Tech in Mathematics and Computing, IIT Goa  
-Focus: Data Science, Machine Learning, and Systems Analysis
+
 
 ---
 
