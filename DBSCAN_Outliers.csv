@@ -1,7 +1,0 @@
-Recency,Frequency,Monetary,Customer_ID,Cluster_eps_500,Cluster_eps_1000,Cluster_eps_3000,Cluster_Final,Category
-322,20,15291.0,CUST922,-1,-1,1,-1,VIP / High-Spending Customer
-362,20,18538.0,CUST343,-1,-1,-1,-1,VIP / High-Spending Customer
-327,20,11133.0,CUST453,-1,-1,1,-1,Irregular Mid-Spender
-420,20,12961.0,CUST195,-1,-1,1,-1,VIP / High-Spending Customer
-329,20,15274.0,CUST776,-1,-1,1,-1,VIP / High-Spending Customer
-439,20,11083.0,CUST471,-1,-1,1,-1,Irregular Mid-Spender

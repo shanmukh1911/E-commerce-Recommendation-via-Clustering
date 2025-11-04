@@ -1,7 +1,0 @@
-Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Behavior,eps
-1,14,353.57142857142856,20.0,6825.857142857143,Potential Loyalists / Average Buyers,500
-2,26,362.0769230769231,20.0,4081.3846153846152,Potential Loyalists / Average Buyers,500
-3,4,342.75,20.0,9314.0,Potential Loyalists / Average Buyers,500
-1,40,359.1,20.0,5041.95,Potential Loyalists / Average Buyers,1000
-2,4,342.75,20.0,9314.0,Potential Loyalists / Average Buyers,1000
-1,49,358.61224489795916,20.0,6217.877551020408,Potential Loyalists / Average Buyers,3000
