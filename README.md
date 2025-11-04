@@ -51,7 +51,7 @@ E-Commerce/
 │   ├── DBSCAN_All_Cluster_Summary.csv
 │   ├── DBSCAN_All_Outliers.csv
 │
-├── docs/
+├── plots/
 │   ├── eps500_plot.png
 │   ├── eps1000_plot.png
 │   ├── eps3000_plot.png
